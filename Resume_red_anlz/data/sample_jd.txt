@@ -1,0 +1,28 @@
+Job Title: Software Engineer – Backend Development
+
+We are seeking a skilled and motivated Software Engineer to join our backend team. The ideal candidate should have strong programming skills and a passion for building scalable systems. As a backend developer, you will work closely with product managers and frontend developers to design and implement robust backend services.
+
+Responsibilities:
+- Design and develop RESTful APIs using Python/Django or Node.js
+- Optimize database performance (PostgreSQL/MySQL)
+- Collaborate on system architecture and data flow design
+- Implement security and data protection best practices
+- Write clean, efficient, and testable code
+
+Requirements:
+- Strong proficiency in Python, Java, or Node.js
+- Experience with relational databases like PostgreSQL or MySQL
+- Familiarity with Docker, Git, and CI/CD pipelines
+- Understanding of REST APIs and microservices architecture
+- Good communication skills and ability to work in a team environment
+
+Nice to Have:
+- Exposure to cloud platforms (AWS, Azure)
+- Knowledge of message brokers like RabbitMQ or Kafka
+- Experience with performance tuning and profiling
+
+Qualifications:
+- B.Tech/M.Tech in Computer Science or a related field
+- 1–3 years of relevant industry experience
+
+Location: Remote / Hybrid (Preferred: Bangalore, India)
